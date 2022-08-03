@@ -13,7 +13,7 @@ class Questao extends StatelessWidget {
       child: Text(
         pergunta,
         style: const TextStyle(
-          fontSize: 30,
+          fontSize: 25,
         ),
         textAlign: TextAlign.center,
       ),
